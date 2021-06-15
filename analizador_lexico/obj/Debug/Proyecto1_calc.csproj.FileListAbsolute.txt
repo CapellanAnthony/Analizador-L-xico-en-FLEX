@@ -1,0 +1,37 @@
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.csprojResolveAssemblyReference.cache
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.Cache
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csprojResolveAssemblyReference.cache
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_calc_for1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.Cache
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csprojResolveAssemblyReference.cache
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+C:\Users\invitado2\Documents\IPC2\Lenguajes\Proyecto1\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csprojAssemblyReference.cache
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.cache
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+C:\Users\Jesus\Desktop\New folder\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
